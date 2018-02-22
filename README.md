@@ -8,4 +8,4 @@ Requirements for correctness: the length of the line is from 4 to 7 (not includi
 
 Technical requirements
 --------------------
-The program is written under dos, so it can only be run on a 32-bit system
+The program is written for dos, so it can only be run on a 32-bit system
